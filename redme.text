@@ -1,0 +1,20 @@
+1) My settup and Approch
+  a) create project file.
+  b) install node module by the help of (NPM INIT) 
+  c) install require dependancy help of (npm install dependancy-name)
+  
+2) settup production folder and file
+ a) controller (user and product)
+ b) models  (user and product)
+ c) routes  (user and product)
+ d) middleware
+ e) validator
+ f) index.js.
+
+3) Use Authentication or Authorization  of User by the help of JWT(jsonwebtoken). 
+4) Applied validation all fields by the help of validator module.
+
+
+
+
+
